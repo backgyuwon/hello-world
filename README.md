@@ -7,7 +7,7 @@
 [네이버링크입니다.](https://naver.com)<br>
 ## 고양이 동영상
 <iframe id="ytplayer" type="text/html" width="640"
-height="360" src="https://youtu.be/aHAr8M4VZr8" frameborder="0"></iframe><br>
+height="360" src="https://www.youtube.com/embed/aHAr8M4VZr8" frameborder="0"></iframe><br>
 
 1. 순서1
 2. 순서2
