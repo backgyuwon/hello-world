@@ -6,8 +6,7 @@
 ## 즐겨찾기
 [네이버링크입니다.](https://naver.com)<br>
 ## 고양이 동영상
-<iframe id="ytplayer" type="text/html" width="640"
-height="360" src="https://www.youtube.com/embed/aHAr8M4VZr8" frameborder="0"></iframe><br>
+<iframe width="1280" height="640" src="https://www.youtube.com/embed/aHAr8M4VZr8" title="IVE 아이브 &#39;EMPATHY!&#39; Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 1. 순서1
 2. 순서2
