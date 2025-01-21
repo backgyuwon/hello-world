@@ -4,7 +4,7 @@
 ## 전체 설계도
 <img src="image.png"/><br>
 ## 즐겨찾기
-[네이버링크입니다.](https://naver.com><br>
+[네이버링크입니다.](https://naver.com)<br>
 ## 고양이 동영상
 <iframe id="ytplayer" type="text/html" width="640"
 height="360" src=https://www.youtube.com/embed/jsRqtnGOavk" frameborder="0"></iframe><br>
